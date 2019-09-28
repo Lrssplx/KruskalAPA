@@ -1,2 +1,2 @@
 # Trabalho da Disciplina Análise e Projeto de Algoritmos
-Implementação do ALgoritmo de Kruskal em duas versões(CountingSort, HeapSort)
+Implementação do Algoritmo de Kruskal em duas versões(CountingSort, HeapSort)
